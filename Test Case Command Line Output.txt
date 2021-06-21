@@ -1,0 +1,166 @@
+Enter initial point coordinates
+
+3
+
+3
+
+0
+
+Enter final point coordinates
+
+5
+
+5
+
+0
+
+Enter total time
+
+2
+
+Enter number of points in trajectory
+
+10
+
+Lengths: 5.000000 4.000000 3.000000
+
+Initial: 3.000000 3.000000 0.000000
+
+Final: 5.000000 5.000000 0.000000
+
+Time step: 0.200000
+
+Velocity: 1.000000i + 1.000000j
+
+Displacement per time step (i,j,k): 0.200000i + 0.200000j
+
+Rotation per time step: 0.000000
+
+
+
+Position: 3.200000 (x) 3.200000 (y) 0.000000 (phi) 
+
+Theta1: 0.582742 (rad) Theta2: 2.446509 (rad) Theta3: -3.029250 (rad)Theta1_dot: -0.275303 (rad/s) Theta1_dot: -0.265438 (rad/s) Theta3_dot: 0.540742 (rad/s) 
+
+Position: 3.400000 (x) 3.400000 (y) 0.000000 (phi) 
+
+Theta1: 0.532956 (rad) Theta2: 2.392049 (rad) Theta3: -2.925005 (rad)Theta1_dot: -0.223612 (rad/s) Theta1_dot: -0.278877 (rad/s) Theta3_dot: 0.502488 (rad/s) 
+
+Position: 3.600000 (x) 3.600000 (y) 0.000000 (phi) 
+
+Theta1: 0.492887 (rad) Theta2: 2.335052 (rad) Theta3: -2.827940 (rad)Theta1_dot: -0.178052 (rad/s) Theta1_dot: -0.290900 (rad/s) Theta3_dot: 0.468952 (rad/s) 
+
+Position: 3.800000 (x) 3.800000 (y) 0.000000 (phi) 
+
+Theta1: 0.461363 (rad) Theta2: 2.275752 (rad) Theta3: -2.737115 (rad)Theta1_dot: -0.138062 (rad/s) Theta1_dot: -0.301980 (rad/s) Theta3_dot: 0.440042 (rad/s) 
+
+Position: 4.000000 (x) 4.000000 (y) 0.000000 (phi) 
+
+Theta1: 0.437338 (rad) Theta2: 2.214297 (rad) Theta3: -2.651635 (rad)Theta1_dot: -0.102941 (rad/s) Theta1_dot: -0.312500 (rad/s) Theta3_dot: 0.415441 (rad/s) 
+
+Position: 4.200000 (x) 4.200000 (y) 0.000000 (phi) 
+
+Theta1: 0.419910 (rad) Theta2: 2.150768 (rad) Theta3: -2.570678 (rad)Theta1_dot: -0.071970 (rad/s) Theta1_dot: -0.322782 (rad/s) Theta3_dot: 0.394751 (rad/s) 
+
+Position: 4.400000 (x) 4.400000 (y) 0.000000 (phi) 
+
+Theta1: 0.408319 (rad) Theta2: 2.085182 (rad) Theta3: -2.493501 (rad)Theta1_dot: -0.044469 (rad/s) Theta1_dot: -0.333105 (rad/s) Theta3_dot: 0.377574 (rad/s) 
+
+Position: 4.600000 (x) 4.600000 (y) 0.000000 (phi) 
+
+Theta1: 0.401933 (rad) Theta2: 2.017506 (rad) Theta3: -2.419438 (rad)Theta1_dot: -0.019821 (rad/s) Theta1_dot: -0.343729 (rad/s) Theta3_dot: 0.363550 (rad/s) 
+
+Position: 4.800000 (x) 4.800000 (y) 0.000000 (phi) 
+
+Theta1: 0.400237 (rad) Theta2: 1.947653 (rad) Theta3: -2.347891 (rad)Theta1_dot: 0.002526 (rad/s) Theta1_dot: -0.354905 (rad/s) Theta3_dot: 0.352379 (rad/s) 
+
+Position: 5.000000 (x) 5.000000 (y) 0.000000 (phi) 
+
+Theta1: 0.402823 (rad) Theta2: 1.875489 (rad) Theta3: -2.278312 (rad)Theta1_dot: 0.023069 (rad/s) Theta1_dot: -0.366900 (rad/s) Theta3_dot: 0.343831 (rad/s) 
+
+
+
+Enter initial point coordinates
+
+3
+
+3
+
+0
+
+Enter final point coordinates
+
+5
+
+5
+
+0
+
+Enter total time
+
+4
+
+Enter number of points in trajectory
+
+10
+
+Lengths: 5.000000 4.000000 3.000000
+
+Initial: 3.000000 3.000000 0.000000
+
+Final: 5.000000 5.000000 0.000000
+
+Time step: 0.400000
+
+Velocity: 0.500000i + 0.500000j
+
+Displacement per time step (i,j,k): 0.200000i + 0.200000j
+
+Rotation per time step: 0.000000
+
+
+
+Position: 3.200000 (x) 3.200000 (y) 0.000000 (phi) 
+
+Theta1: 0.582742 (rad) Theta2: 2.446509 (rad) Theta3: -3.029250 (rad)Theta1_dot: -0.137652 (rad/s) Theta1_dot: -0.132719 (rad/s) Theta3_dot: 0.270371 (rad/s) 
+
+Position: 3.400000 (x) 3.400000 (y) 0.000000 (phi) 
+
+Theta1: 0.532956 (rad) Theta2: 2.392049 (rad) Theta3: -2.925005 (rad)Theta1_dot: -0.111806 (rad/s) Theta1_dot: -0.139438 (rad/s) Theta3_dot: 0.251244 (rad/s) 
+
+Position: 3.600000 (x) 3.600000 (y) 0.000000 (phi) 
+
+Theta1: 0.492887 (rad) Theta2: 2.335052 (rad) Theta3: -2.827940 (rad)Theta1_dot: -0.089026 (rad/s) Theta1_dot: -0.145450 (rad/s) Theta3_dot: 0.234476 (rad/s) 
+
+Position: 3.800000 (x) 3.800000 (y) 0.000000 (phi) 
+
+Theta1: 0.461363 (rad) Theta2: 2.275752 (rad) Theta3: -2.737115 (rad)Theta1_dot: -0.069031 (rad/s) Theta1_dot: -0.150990 (rad/s) Theta3_dot: 0.220021 (rad/s) 
+
+Position: 4.000000 (x) 4.000000 (y) 0.000000 (phi) 
+
+Theta1: 0.437338 (rad) Theta2: 2.214297 (rad) Theta3: -2.651635 (rad)Theta1_dot: -0.051471 (rad/s) Theta1_dot: -0.156250 (rad/s) Theta3_dot: 0.207721 (rad/s) 
+
+Position: 4.200000 (x) 4.200000 (y) 0.000000 (phi) 
+
+Theta1: 0.419910 (rad) Theta2: 2.150768 (rad) Theta3: -2.570678 (rad)Theta1_dot: -0.035985 (rad/s) Theta1_dot: -0.161391 (rad/s) Theta3_dot: 0.197376 (rad/s) 
+
+Position: 4.400000 (x) 4.400000 (y) 0.000000 (phi) 
+
+Theta1: 0.408319 (rad) Theta2: 2.085182 (rad) Theta3: -2.493501 (rad)Theta1_dot: -0.022234 (rad/s) Theta1_dot: -0.166553 (rad/s) Theta3_dot: 0.188787 (rad/s) 
+
+Position: 4.600000 (x) 4.600000 (y) 0.000000 (phi) 
+
+Theta1: 0.401933 (rad) Theta2: 2.017506 (rad) Theta3: -2.419438 (rad)Theta1_dot: -0.009911 (rad/s) Theta1_dot: -0.171864 (rad/s) Theta3_dot: 0.181775 (rad/s) 
+
+Position: 4.800000 (x) 4.800000 (y) 0.000000 (phi) 
+
+Theta1: 0.400237 (rad) Theta2: 1.947653 (rad) Theta3: -2.347891 (rad)Theta1_dot: 0.001263 (rad/s) Theta1_dot: -0.177453 (rad/s) Theta3_dot: 0.176190 (rad/s) 
+
+Position: 5.000000 (x) 5.000000 (y) 0.000000 (phi) 
+
+Theta1: 0.402823 (rad) Theta2: 1.875489 (rad) Theta3: -2.278312 (rad)Theta1_dot: 0.011534 (rad/s) Theta1_dot: -0.183450 (rad/s) Theta3_dot: 0.171915 (rad/s) 
+
+
+
+
+
