@@ -10,4 +10,4 @@ There is also a commented print command of x, y, phi position values if desired.
 Unreachable points are indicated with "Pose Unreachable" preceding the output line.
 
 The code could be compiled and run on this online C compiler: https://www.onlinegdb.com/online_c_compiler
-(Visual studio C++ 2019 has deprecated the scanf function so if that is used wiill need to replace scanf with cin from the C++ iostream library.
+(Visual studio C++ 2019 has deprecated the scanf function so if that is used wiill need to replace scanf with cin from the C++ iostream library).
